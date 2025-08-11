@@ -1,6 +1,14 @@
 # 🏢 MSBA202 Final Project – Property Management System  
 > **Section 70 – Spring 2025** | *Operational & Analytical Database Development*  
 
+![Contributors](https://img.shields.io/badge/Contributors-4-brightgreen)
+![Forks](https://img.shields.io/badge/Forks-23K-blue)
+![Stars](https://img.shields.io/badge/Stars-15K-blueviolet)
+![Issues](https://img.shields.io/badge/Issues-5%20Open-yellow)
+![License](https://img.shields.io/badge/License-Unlicense-green)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-grey?logo=linkedin)
+
+
 ---
 
 ## 🏷️ Project Chips
