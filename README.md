@@ -1,12 +1,17 @@
 # 🏢 MSBA202 Final Project – Property Management System  
 > **Section 70 – Spring 2025** | *Operational & Analytical Database Development*  
 
+![Course](https://img.shields.io/badge/Course-MSBA202%20Data%20Management-blue)
+![Project](https://img.shields.io/badge/Project-Property%20Management%20System-orange)
+![Semester](https://img.shields.io/badge/Semester-Spring%202025-lightblue)
+![Database](https://img.shields.io/badge/Database-MySQL%20%7C%20Star%20Schema-lightgrey)
+![Modules](https://img.shields.io/badge/Modules-Leasing%20%7C%20Maintenance%20%7C%20Utilities-green)
+![Tech](https://img.shields.io/badge/Tech-SQL%20%7C%20ETL%20%7C%20PowerBI-yellow)
+![Part](https://img.shields.io/badge/Parts-Operational%20%26%20Analytical-red)
+![Group](https://img.shields.io/badge/Group-1-brightgreen)
 ![Contributors](https://img.shields.io/badge/Contributors-4-brightgreen)
-![Forks](https://img.shields.io/badge/Forks-23K-blue)
-![Stars](https://img.shields.io/badge/Stars-15K-blueviolet)
-![Issues](https://img.shields.io/badge/Issues-5%20Open-yellow)
-![License](https://img.shields.io/badge/License-Unlicense-green)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-grey?logo=linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Tarbiar%20Swat-grey?logo=linkedin)](https://www.linkedin.com/in/md-tarbiar-swat/)
+
 
 
 ---
